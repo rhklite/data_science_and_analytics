@@ -1,6 +1,6 @@
 # README
 
-- **airline_sentiment_prediction:** includes a sentiment analysis on US airline's customer opinions through applying natural language processing (NLP) techniques. The goal is to understand
+- **airline_sentiment_prediction:** includes a sentiment analysis on US airline's customer opinions through applying natural language processing (NLP) techniques.
 - **salary_prediction:** includes a regression analysis on the salary of data scientists. Based on [2018 Kaggle Survey Challenge: Sallary Prediction](https://www.kaggle.com/kaggle/kaggle-survey-2018)
 
 ## Software Package Requirements
