@@ -34,6 +34,7 @@
 <center>
 
 Prediction Accuracy Score: **80.9%**
+
 |              | precision | recall | f1-score |   support   |   |   |
 |:------------:|:---------:|:------:|:--------:|:-----------:|:-:|:-:|
 |   negative   |    0.96   |  0.80  |   0.87   |     9178    |   |   |
@@ -51,6 +52,7 @@ Prediction Accuracy Score: **80.9%**
 <center>
 
 Prediction Accuracy Score: **65.0%**
+
 |                         | precision | recall | f1-score | support    |
 |-------------------------|:---------:|--------|----------|------------|
 | Bad Flight              |    0.61   | 0.28   | 0.39     | 184        |
