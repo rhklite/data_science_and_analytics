@@ -11,13 +11,14 @@
 <center>
 
 Prediction Accuracy Score: **80.9%**
-|              | precision | recall | f1-score |   support   |   |   |
-|:------------:|:---------:|:------:|:--------:|:-----------:|:-:|:-:|
-|   negative   |    0.96   |  0.80  |   0.87   |     9178    |   |   |
-|   positive   |    0.52   |  0.86  |   0.65   |     2362    |   |   |
-|   micro avg  |    0.81   |  0.81  |   0.81   |    11540    |   |   |
-|   macro avg  |    0.74   |  0.83  |   0.76   |    11540    |   |   |
-| weighted avg |    0.87   |  0.81  |   0.82   | 11540</pre> |   |   |
+
+|              | precision | recall | f1-score |   support   |
+|:------------:|:---------:|:------:|:--------:|:-----------:|
+|   negative   |    0.96   |  0.80  |   0.87   |     9178    |
+|   positive   |    0.52   |  0.86  |   0.65   |     2362    |
+|   micro avg  |    0.81   |  0.81  |   0.81   |    11540    |
+|   macro avg  |    0.74   |  0.83  |   0.76   |    11540    |
+| weighted avg |    0.87   |  0.81  |   0.82   | 11540</pre> |
 
 </center>
 
@@ -28,6 +29,7 @@ Prediction Accuracy Score: **80.9%**
 <center>
 
 Prediction Accuracy Score: **65.0%**
+
 |                         | precision | recall | f1-score | support    |
 |-------------------------|:---------:|--------|----------|------------|
 | Bad Flight              |    0.61   | 0.28   | 0.39     | 184        |

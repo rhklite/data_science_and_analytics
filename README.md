@@ -1,6 +1,6 @@
 # README
 
-- **airline_sentiment_prediction:** includes a sentiment analysis on US airline's customer opinions through applying natural language processing (NLP) techniques. The goal is to understand
+- **airline_sentiment_prediction:** includes a sentiment analysis on US airline's customer opinions through applying natural language processing (NLP) techniques.
 - **salary_prediction:** includes a regression analysis on the salary of data scientists. Based on [2018 Kaggle Survey Challenge: Sallary Prediction](https://www.kaggle.com/kaggle/kaggle-survey-2018)
 
 ## Software Package Requirements
@@ -35,13 +35,13 @@
 
 Prediction Accuracy Score: **80.9%**
 
-|              | precision | recall | f1-score |   support   |   |   |
-|:------------:|:---------:|:------:|:--------:|:-----------:|:-:|:-:|
-|   negative   |    0.96   |  0.80  |   0.87   |     9178    |   |   |
-|   positive   |    0.52   |  0.86  |   0.65   |     2362    |   |   |
-|   micro avg  |    0.81   |  0.81  |   0.81   |    11540    |   |   |
-|   macro avg  |    0.74   |  0.83  |   0.76   |    11540    |   |   |
-| weighted avg |    0.87   |  0.81  |   0.82   | 11540</pre> |   |   |
+|              | precision | recall | f1-score |   support   |
+|:------------:|:---------:|:------:|:--------:|:-----------:|
+|   negative   |    0.96   |  0.80  |   0.87   |     9178    |
+|   positive   |    0.52   |  0.86  |   0.65   |     2362    |
+|   micro avg  |    0.81   |  0.81  |   0.81   |    11540    |
+|   macro avg  |    0.74   |  0.83  |   0.76   |    11540    |
+| weighted avg |    0.87   |  0.81  |   0.82   | 11540</pre> |
 
 </center>
 
